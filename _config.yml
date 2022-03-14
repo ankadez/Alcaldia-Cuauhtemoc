@@ -6,3 +6,5 @@ description: El mapa demuestra las líneas del metro y metrobús, así como sus 
 logo: 
 **#**Note: You can also add a logo from an image URL, as below
 **#**logo: https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_Metrobus_y_Movilidad_Integrada.png```
+
+theme: jekyll-theme-minimal
